@@ -1,2 +1,2 @@
 # sample_codes
-All Trial Codes wrritten in Google Collab
+All Trial Codes written in Google Collab
