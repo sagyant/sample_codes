@@ -1,2 +1,2 @@
-# sample_codes
+# ThinkDS
 All Trial Codes written in Google Collab
